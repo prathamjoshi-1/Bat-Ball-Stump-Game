@@ -7,12 +7,11 @@ This project is designed for beginners who want to practice **DOM manipulation, 
 
 ## 📂 Project Structure 📂
 
-Bat-Ball-Stump-Game/ │── index.html   🎨 (Game UI structure)
-│── styles.css   💅 (Styling and design)
-│── script.js    ⚡ (Game logic & interactivity)
-│── README.md    📝 (Project documentation)
-
----
+📁 Bat-Ball-Stump-Game  
+ ┣ 📄 index.html   — 🎮 Game interface (HTML structure)  
+ ┣ 🎨 styles.css   — 🎨 Styling & design (CSS)  
+ ┣ ⚙️ script.js    — ⚙️ Game logic & functionality (JavaScript)  
+ ┗ 📘 README.md    — 📘 Project documentation & overview
 
 ## 🎯 Game Overview 🎯  
 
